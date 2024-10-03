@@ -1,0 +1,16 @@
+.inside_medicine_container {
+  /* background-image: url(../Assets/cool-background.png); */
+  /* border: 1px solid black; */
+  /* border: none; */
+
+  /* background-color: black; */
+  /* height: 100vh; */
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding-top: 3rem;
+}
+
+.addMedicine__button {
+  border: none;
+}
